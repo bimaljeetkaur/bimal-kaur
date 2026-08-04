@@ -1,0 +1,179 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const signals = (await getCollection("signals")).sort(
+  (a, b) =>
+    new Date(b.data.date).getTime() -
+    new Date(a.data.date).getTime()
+);
+
+
+---
+
+<BaseLayout
+  title="Bimal Kaur | Signals"
+  description="Signals from cybersecurity, technology, leadership and human behavior."
+>
+
+<header class="intro">
+
+  <h1>Bimal Kaur</h1>
+
+  <p class="tagline">
+    Signals from technology, risk and human behaviour
+  </p>
+
+  <p>
+    Behind every system is a decision. Behind every decision is a human.
+  </p>
+
+</header>
+
+
+<hr />
+
+
+<section>
+
+<h2>Recent Signals</h2>
+
+
+{
+  signals.map((signal) => (
+    <article class="signal">
+
+      <p class="meta">
+        {signal.data.date} · {signal.data.category}
+      </p>
+
+      <h3>
+        <a href={`/signals/${signal.id}/`}>
+          {signal.data.title}
+        </a>
+      </h3>
+
+      <p class="description">
+        {signal.data.description}
+      </p>
+
+    </article>
+  ))
+}
+
+
+</section>
+
+
+<style>
+section,
+section,
+header.intro {
+  max-width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+}
+header.intro {
+  margin-bottom: 80px;
+}
+.intro h1 {
+  font-family: "Newsreader", Georgia, serif;
+  font-size: 46px;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  margin-bottom: 18px;
+}
+
+
+.tagline {
+  font-family: "Newsreader", Georgia, serif;
+  font-size: 22px;
+  font-style: italic;
+  color: #888;
+  margin-bottom: 45px;
+}
+
+
+.intro p {
+  font-family: "Inter", sans-serif;
+  font-size: 17px;
+  line-height: 1.8;
+  color: #b0b0b0;
+  max-width: 850px;
+  margin-bottom: 24px;
+}
+
+
+hr {
+
+  border:none;
+  border-top:1px solid #242424;
+  margin:80px 0;
+
+}
+
+
+h2 {
+
+  font-family:Inter,sans-serif;
+  font-size:13px;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  color:#888;
+
+}
+
+
+.signal {
+
+  margin:60px 0;
+
+}
+
+
+.meta {
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #666;
+  font-size: 11px;
+}
+
+
+.signal h3 a {
+  font-family: "Newsreader", Georgia, serif;
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  color: #e5e5e5;
+}
+
+
+.signal h3 a {
+
+  font-family:"Newsreader", Georgia, serif;
+  font-size:34px;
+  font-weight:400;
+  color:#eee;
+  text-decoration:none;
+
+}
+
+
+.signal h3 a:hover {
+
+  color:#aaa;
+
+}
+
+
+.description {
+  font-size:16px;
+  line-height:1.6;
+  color:#aaa;
+}
+
+
+</style>
+
+</BaseLayout>
