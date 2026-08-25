@@ -2,7 +2,7 @@
 title: "The Spec Sheet Problem: Years on Paper vs. Hours in the Trenches"
 date: "26 August 2026"
 category: "Career Reflections"
-description: "Why 'years of experience' on a job spec misses the point — and how a home-built detection engineering lab makes the case for hours over headcount."
+description: "Why 'years of experience' on a job spec misses the point, and how a home-built detection engineering lab makes the case for hours over headcount."
 ---
 I recently applied for a Cyber Security Engineer role. On paper, I matched almost everything in the requirements — except one thing: years of experience. My actual number was lower than what was listed.
 
