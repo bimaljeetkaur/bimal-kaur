@@ -4,7 +4,7 @@ date: "26 August 2026"
 category: "Career Reflections"
 description: "Why 'years of experience' on a job spec misses the point, and how a home-built detection engineering lab makes the case for hours over headcount."
 ---
-I recently applied for a Cyber Security Engineer role. On paper, I matched almost everything in the requirements — except one thing: years of experience. My actual number was lower than what was listed.
+I recently applied for a Cyber Security Manager role. On paper, I matched almost everything in the requirements — except one thing: years of experience. My actual number was lower than what was listed.
 
 I got a call. Good conversation. And then the answer came back, relayed politely by the recruiter: the client wanted someone from a purely SOC engineering background. My experience, which includes actively enabling a SOC engineering team, building the scaffolding other engineers operate inside, didn't fit the shape of the box they'd drawn.
 
