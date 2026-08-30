@@ -1,8 +1,8 @@
 ---
 title: "I Was Kept in the Interview Process. I Forgot I Was Also Hiring."
 description: "Dating, recruitment and the peculiar cruelty of being kept in the process without ever knowing whether there is a role at the end."
-date: 2026-08-31
-tags: ["Career", "Relationships", "Ambition", "Reflection"]
+date: "2026-08-31"
+category: "Reflection"
 ---
 There is a particular kind of cruelty in not being rejected.
 
