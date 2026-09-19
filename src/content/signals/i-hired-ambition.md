@@ -2,7 +2,7 @@
 title: "I Hired Ambition. I Forgot to Manage It"
 date: "1 September 2026"
 category: "Ambition"
-description: "A wake‑up call for industrial leaders: harden PLCs, enforce segmentation, and secure operational resilience now."
+description: "A reflection on ambition, growth and learning to manage the forces that drive us."
 ---
 
 For nearly twenty years, I have worked with ambitious people. Eventually, I realised one of them had been working with me the entire time, and I had forgotten to manage it.
