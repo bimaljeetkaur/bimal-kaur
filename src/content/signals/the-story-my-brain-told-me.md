@@ -43,7 +43,8 @@ For a long time, repetition felt like investigation. It wasn't. Repetition isn't
 
 **Learning not to believe everything I think**
 
-This is where Kahneman's book met another practice I'd been building — learning to observe my thoughts rather than automatically treating them as instructions.
+This is where Kahneman's book met another practice I'd been building. 
+Learning to observe my thoughts rather than automatically treating them as instructions.
 
 I started asking different questions. What do I actually know? What am I assuming? What evidence am I ignoring? What other explanation fits the same facts? Am I mistaking something familiar for something true? And, less comfortably: what part of my own history or blind spots might be colouring this?
 
@@ -75,5 +76,6 @@ When something feels obvious, I slow down. When something feels personal, I look
 I still get things wrong. I probably always will. The difference is I now know my brain is capable of producing a remarkably persuasive argument without having all the facts, and that's made me more careful with judgement, more willing to question my assumptions, and, I hope, more generous in allowing other people the same complexity I now know exists inside my own head.
 
 I don't need to forget what happened to move forward from it. I need to remember it accurately. I need to accept my part in it without making guilt a permanent address. And I need to keep questioning the stories my brain tells me, because sometimes the mind that produced the story wasn't entirely within my control.
+
 What I did with that story still was.
 
