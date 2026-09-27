@@ -1,7 +1,7 @@
 ---
 title: "Cyber Advisory CSA‑260722: Immediate PLC Hardening Required Across Critical Infrastructure	"
 date: "27 July 2026"
-category: "Cybersecurity"
+category: ["Cybersecurity"]
 description: "A wake‑up call for industrial leaders: harden PLCs, enforce segmentation, and secure operational resilience now."
 ---
  Modern OT environments are facing a surge in opportunistic attacks against internet‑connected PLCs. The latest cyber advisory (CSA‑260722) underscores how exposed control systems are being remotely accessed, manipulated, and disrupted across multiple critical‑infrastructure sectors. The message is clear: PLCs must be isolated, hardened, and continuously validated.
