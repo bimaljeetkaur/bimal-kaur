@@ -1,7 +1,7 @@
 ---
 title: "I Hired Ambition. I Forgot to Manage It"
 date: "1 September 2026"
-category: "Ambition"
+category: ["Ambition"]
 description: "A reflection on ambition, growth and learning to manage the forces that drive us."
 ---
 
