@@ -11,7 +11,7 @@ const signals = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.string(),
-    category: z.string(),
+    category: z.array(z.string()),
     description: z.string(),
   }),
 });
