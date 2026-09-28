@@ -1,7 +1,7 @@
 ---
 title: "The Story My Brain Told Me (And Why It Sounded So Convincing)"
 date: "28 September 2026"
-category: ["personal-essay", "psychology", "cognitive-bias", "self-reflection"]
+category: ["personal-essay", " psychology ", " cognitive-bias ", " self-reflection "]
 description: "A personal essay on how fear rewrites ambiguous situations into confirmed threats; and what it costs when we manage that fear sideways instead of speaking it plainly."
 ---
 
